@@ -1,0 +1,127 @@
+<NotepadPlus>
+    <Project name="projeto-glass-html5">
+        <Folder name="_css">
+            <File name="_css\.DS_Store" />
+            <File name="_css\estilo.css" />
+            <File name="_css\form.css" />
+            <File name="_css\fotos.css" />
+            <File name="_css\media.css" />
+            <File name="_css\specs.css" />
+        </Folder>
+        <Folder name="_fonts">
+            <File name="_fonts\computer-font.ttf" />
+            <File name="_fonts\bubblegum-sans-regular.otf" />
+        </Folder>
+        <Folder name="_imagens">
+            <File name="_imagens\.DS_Store" />
+            <File name="_imagens\audio.png" />
+            <File name="_imagens\botao-enviar.png" />
+            <File name="_imagens\contato.png" />
+            <File name="_imagens\det-bateria.jpg" />
+            <File name="_imagens\det-camera.jpg" />
+            <File name="_imagens\det-tela.jpg" />
+            <File name="_imagens\det-touch.jpg" />
+            <File name="_imagens\especificacoes-02.png" />
+            <File name="_imagens\especificacoes.png" />
+            <File name="_imagens\facebook.png" />
+            <File name="_imagens\fotos.png" />
+            <File name="_imagens\galeria-01.jpg" />
+            <File name="_imagens\galeria-02.jpg" />
+            <File name="_imagens\galeria-03.jpg" />
+            <File name="_imagens\galeria-04.jpg" />
+            <File name="_imagens\galeria-05.jpg" />
+            <File name="_imagens\galeria-06.jpg" />
+            <File name="_imagens\glass-esquema-marcado.jpg" />
+            <File name="_imagens\glass-esquema.jpg" />
+            <File name="_imagens\glass-logo-grd" />
+            <File name="_imagens\glass-logo-med.jpg" />
+            <File name="_imagens\glass-logo-peq.jpg" />
+            <File name="_imagens\glass-oculos-preto-gig.png" />
+            <File name="_imagens\glass-oculos-preto-grd.png" />
+            <File name="_imagens\glass-oculos-preto-med.png" />
+            <File name="_imagens\glass-oculos-preto-peq.png" />
+            <File name="_imagens\glass-quadro-homem-mulher.jpg" />
+            <File name="_imagens\glass-quadro-homem.jpg" />
+            <File name="_imagens\glass-quadro-mulher.jpg" />
+            <File name="_imagens\home.png" />
+            <File name="_imagens\icone-contato.png" />
+            <File name="_imagens\icone-endereco.png" />
+            <File name="_imagens\icone-mensagem.png" />
+            <File name="_imagens\icone-pagamento.png" />
+            <File name="_imagens\jornal.png" />
+            <File name="_imagens\lampada-acesa.jpg" />
+            <File name="_imagens\lampada-apagada.jpg" />
+            <File name="_imagens\lampada-quebrada.jpg" />
+            <File name="_imagens\logo-google-gig.png" />
+            <File name="_imagens\mao.png" />
+            <File name="_imagens\multimidia.png" />
+            <File name="_imagens\radio-tv.png" />
+            <File name="_imagens\twitter.png" />
+            <File name="_imagens\video-mini01.jpg" />
+            <File name="_imagens\video-mini02.jpg" />
+            <File name="_imagens\video-mini03.jpg" />
+            <File name="_imagens\video.png" />
+        </Folder>
+        <Folder name="_interface">
+            <File name="_interface\00-divisoes-semanticas.jpg" />
+            <File name="_interface\01-index.jpg" />
+            <File name="_interface\02-specs.jpg" />
+            <File name="_interface\03-fotos.jpg" />
+            <File name="_interface\04-multimidia.jpg" />
+            <File name="_interface\05-fale-conosco.jpg" />
+        </Folder>
+        <Folder name="_javascript">
+            <File name="_javascript\.DS_Store" />
+            <File name="_javascript\audio.js" />
+            <File name="_javascript\funcoes.js" />
+            <File name="_media\audio.js" />
+        </Folder>
+        <Folder name="_media">
+            <File name="_media\.DS_Store" />
+            <File name="_media\2009-lovers-carvings-bibio.mp3" />
+            <File name="_media\getting-started.mp4" />
+            <File name="_media\how-it-feels.mp4" />
+            <File name="_media\one-day.mp4" />
+        </Folder>
+        <Folder name="_textos">
+            <File name="_textos\.DS_Store" />
+            <File name="_textos\fale-conosco-txt.html" />
+            <File name="_textos\fotos-txt.html" />
+            <File name="_textos\google-glass-txt.html" />
+            <File name="_textos\index-txt.html" />
+            <File name="_textos\multimidia-txt.html" />
+            <File name="_textos\specs-txt.html" />
+        </Folder>
+        <File name=".DS_Store" />
+        <File name="fale-conosco.html" />
+        <File name="fotos.html" />
+        <File name="google-glass.html" />
+        <File name="index.html" />
+        <File name="multimidia.html" />
+        <File name="projeto-glass-html5" />
+        <File name="specs.html" />
+        <File name="testejs03.html" />
+        <File name="testejs02.html" />
+        <File name="testejs01.html" />
+    </Project>
+    <Project name="Curso-CSS-moodle ">
+        <Folder name="Nome da pasta">
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\Exercicio1.html" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\css.pdf" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\css-cheat-sheet.pdf" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\Exercicio1.html" />
+            <Folder name="exemplo">
+                <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\exemplo\estilo.css" />
+                <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\exemplo\index.html" />
+            </Folder>
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\css-cheat-sheet.pdf" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\css.pdf" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\estilo.css" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\Exercicio1.html" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\Formatacao-h1-h3-p.html" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\estilo-formatacao.css" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\Id-Class-Tag.html" />
+            <File name="C:\Users\Aline&amp;Rodrigo\OneDrive\Documentos\HTML5\Curso-Css-Moodle\estilo-id.css" />
+        </Folder>
+    </Project>
+</NotepadPlus>
